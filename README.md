@@ -1,2 +1,2 @@
 # datagraph
-DAG based scheduler 
+simple DAG based scheduler in java
