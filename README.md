@@ -1,4 +1,4 @@
 # datagraph
-DAG based scheduler 
+Java based DAG scheduler 
 
 -Denny
