@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataGraph.iml" filepath="$PROJECT_DIR$/.idea/modules/DataGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataGraph_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DataGraph_main.iml" group="DataGraph" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataGraph_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DataGraph_test.iml" group="DataGraph" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datagraph-common/datagraph-common.iml" filepath="$PROJECT_DIR$/.idea/modules/datagraph-common/datagraph-common.iml" group="datagraph-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datagraph-common/datagraph-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/datagraph-common/datagraph-common_main.iml" group="datagraph-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datagraph-common/datagraph-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/datagraph-common/datagraph-common_test.iml" group="datagraph-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datagraph-core/datagraph-core.iml" filepath="$PROJECT_DIR$/.idea/modules/datagraph-core/datagraph-core.iml" group="datagraph-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datagraph-core/datagraph-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/datagraph-core/datagraph-core_main.iml" group="datagraph-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datagraph-core/datagraph-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/datagraph-core/datagraph-core_test.iml" group="datagraph-core" />
+    </modules>
+  </component>
+</project>
